@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-tiktok-clone",
+    "slug": "react-native-tiktok-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
